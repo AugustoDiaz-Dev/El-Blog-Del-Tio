@@ -1,0 +1,23 @@
+.nav {
+    display: flex;
+    justify-content: flex-end;
+    padding: 0 8px;
+}
+
+.navButton {
+    padding: 4px;
+    width: 90px;
+    text-align: center;
+    margin-bottom: 1rem;
+    border: 1px solid #8843b2;
+    background-color: #8843b2;
+    color: white;
+    border-radius: 8px 0px 8px 0;
+    margin: 8px 4px;
+}
+
+.navButton:hover {
+    text-decoration: none;
+    background-color: white;
+    color: #8843b2;
+}

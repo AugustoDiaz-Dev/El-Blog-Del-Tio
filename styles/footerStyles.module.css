@@ -1,0 +1,17 @@
+.container {
+    margin: 0 auto;
+    margin: 2rem;
+    text-align: center;
+    padding: 1.5rem;
+    color: #3d3d9f;
+    font-weight: bold;
+}
+
+.hrColor {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #3d3d9f;
+    margin: 1em 0;
+    padding: 0;
+}
